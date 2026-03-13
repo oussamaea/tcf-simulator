@@ -1,0 +1,40 @@
+question_number,level,points,A,B,C,D,correct_answer_text,correct_letter
+1,A1,3,Il dort,"Il travaille
+Bonne réponse",Il joue,Il mange,Il travaille,
+3,A1,3,Professionnelles,Familiales,"Amicales
+Bonne réponse",Commerciales,Amicales,
+5,A2,9,Canadienne,"Espagnole
+Bonne réponse",Italienne,Mexicaine,Espagnole,
+7,A2,9,La retraite de ses parents,Son anniversaire de mariage,"Un nouveau logement
+Bonne réponse",Une création d’entreprise,Un nouveau logement,
+9,A2,9,"Un document professionnel
+Bonne réponse",Un titre de transport,Une enveloppe timbrée,Une somme d’argent,Un document professionnel,
+11,B1,15,Un service de création de site,Une aide informatique rapide,Une formation sur Internet,Une publicité à faible coût,Une publicité à faible coût,D
+12,B1,15,Pour acheter des meubles de bibliothèque,Pour organiser un concours de lecture,Pour ouvrir un salon de thé littéraire,Pour s’installer dans un local plus vaste,Pour s’installer dans un local plus vaste,D
+13,B1,15,"Acheter du matériel
+Bonne réponse",Appeler un réparateur,Imprimer un document,Noter un rendez-vous,Acheter du matériel,
+15,B1,15,"Il fait observer la nature de façon différente
+Bonne réponse",Il aide au développement de la recherche,Il nécessite un bon entrainement sportif,Il s’adresse à des spécialistes passionnés,Il fait observer la nature de façon différente,
+17,B1,15,Le choix des matières est vaste,Le nombre d’étudiants est limité,Le prix des études est peu élevé,L’enseignement est d’un bon niveau,L’enseignement est d’un bon niveau,D
+18,B1,15,La quantité de travail est importante,"Le rôle est peu valorisé
+Bonne réponse",Les postes sont supprimés,Les tâches sont limitées,Le rôle est peu valorisé,
+20,B2,21,Exposer l’ensemble de ses qualités professionnelles,"Faire la preuve de son désir de travailler
+Bonne réponse",Parler avec enthousiasme de ses projets de formation,Parler des emplois qu’on a déjà occupés,Faire la preuve de son désir de travailler,
+22,B2,21,"Des adaptations télévisées de Maupassant
+Bonne réponse",Des programmes d’études littéraires,Une exposition consacrée à Maupassant,Un ouvrage critique récemment paru,Des adaptations télévisées de Maupassant,
+24,B2,21,"C’est une réponse à des besoins alimentaires accrus
+Bonne réponse",Des recherches remettent en cause l’intérêt nutritif,Elle s’avère moins rentable que les cultures de céréales,Les citoyens exigent des garanties sanitaires,C’est une réponse à des besoins alimentaires accrus,
+26,B2,21,Pour aider à faire le deuil du passé,Pour alléger le stockage des données,Pour faire obstacle aux multinationales,Pour rester maitre de sa vie privée,Pour rester maitre de sa vie privée,D
+27,B2,21,Un obstacle pour les bateaux de pêche.,Un réchauffement dramatique des eaux.,Un risque d’intoxication des populations du Pacifique.,Une diminution de la diversité de la faune océanique.,Une diminution de la diversité de la faune océanique.,D
+28,B2,21,Élaborer le budget de leur voyage à Barcelone,"Gagner de l’argent pour payer leur séjour
+Bonne réponse",Montrer aux autres classes leurs talents culinaires,Soutenir le futur projet des élèves de terminale,Gagner de l’argent pour payer leur séjour,
+30,C1,26,La gestion du stress est difficile,La santé est mise en péril,Le corps est moins réactif,Le système génétique est affecté,Le système génétique est affecté,D
+31,C1,26,"L’absence totale des signes visuels du langage
+Bonne réponse",L’opposition des familles à leurs interventions,La nécessité de modérer le ton des échanges,Les nombreuses remarques des participants,L’absence totale des signes visuels du langage,
+33,C1,26,La description du personnage,La longueur du texte,La qualité de l’écriture,Le déroulement des événements,Le déroulement des événements,D
+34,C1,26,Ils correspondent à des programmes scolaires obsolètes,Ils méconnaissent l’existence des familles recomposées,"Ils présentent un partage sexiste des tâches dans le couple
+Bonne réponse",Ils se moquent du quotidien des personnes sans emploi,Ils présentent un partage sexiste des tâches dans le couple,
+36,C2,33,"La quasi-absence d’héroïnes
+Bonne réponse",L’appel constant à la violence,L’atténuation des clichés,L’uniformité des scénarios,La quasi-absence d’héroïnes,
+38,C2,33,"De concrétiser des objectifs personnels
+Bonne réponse",De fonctionner dans un cadre innovant,De limiter la répartition des gains,De renforcer les liens entre les générations,De concrétiser des objectifs personnels,

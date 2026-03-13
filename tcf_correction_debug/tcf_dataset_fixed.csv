@@ -1,0 +1,40 @@
+question_number,level,points,A,B,C,D,correct_answer_text,correct_letter
+1,A1,3,Il dort,Il travaille,Il joue,Il mange,Il travaille,B
+2,A1,3,Annoncer un changement,Décrire un endroit,Donner un rendez-vous,Organiser une réunion,Annoncer un changement,A
+3,A1,3,Professionnelles,Familiales,Amicales,Commerciales,Amicales,C
+4,A1,3,Il va avoir de nouveaux horaires,Il va changer de propriétaire,Il va déménager en septembre,Il va fermer pendant l'été,Il va fermer pendant l'été,D
+5,A2,9,Canadienne,Espagnole,Italienne,Mexicaine,Espagnole,B
+6,A2,9,Ils vont bientôt déménager,Ils vont faire des travaux,Ils vont organiser une soirée,Ils vont recevoir de la visite,Ils vont faire des travaux,B
+7,A2,9,La retraite de ses parents,Son anniversaire de mariage,Un nouveau logement,Une création d’entreprise,Un nouveau logement,C
+8,A2,9,Offrir des emplois,Participer à un forum,Présenter leur action,Trouver de l’argent,Offrir des emplois,A
+9,A2,9,Un document professionnel,Un titre de transport,Une enveloppe timbrée,Une somme d’argent,Un document professionnel,A
+10,A2,9,Des cours de cuisine,Des menus différents,Des plats à emporter,Des tickets bon marché,Des menus différents,B
+11,B1,15,Un service de création de site,Une aide informatique rapide,Une formation sur Internet,Une publicité à faible coût,Une publicité à faible coût,D
+12,B1,15,Pour acheter des meubles de bibliothèque,Pour organiser un concours de lecture,Pour ouvrir un salon de thé littéraire,Pour s’installer dans un local plus vaste,Pour s’installer dans un local plus vaste,D
+13,B1,15,Acheter du matériel,Appeler un réparateur,Imprimer un document,Noter un rendez-vous,Acheter du matériel,A
+14,B1,15,Fès,Casablanca,Marrakech,Tanger,Marrakech,C
+15,B1,15,Il fait observer la nature de façon différente,Il aide au développement de la recherche,Il nécessite un bon entrainement sportif,Il s’adresse à des spécialistes passionnés,Il fait observer la nature de façon différente,A
+16,B1,15,On les a tués afin de les manger,On les a attrapés et emmenés ailleurs,On les a chassés de l’aéroport,On les a soignés et relâchés,On les a attrapés et emmenés ailleurs,B
+17,B1,15,Le choix des matières est vaste,Le nombre d’étudiants est limité,Le prix des études est peu élevé,L’enseignement est d’un bon niveau,L’enseignement est d’un bon niveau,D
+18,B1,15,La quantité de travail est importante,Le rôle est peu valorisé,Les postes sont supprimés,Les tâches sont limitées,Le rôle est peu valorisé,B
+19,B1,15,Elle doit devenir la langue de l’administration publique,Elle peut perdre son statut de langue dominante,Elle restera la langue privilégiée dans le commerce,Elle va provoquer la disparition de langues minoritaires,Elle peut perdre son statut de langue dominante,B
+20,B2,21,Exposer l’ensemble de ses qualités professionnelles,Faire la preuve de son désir de travailler,Parler avec enthousiasme de ses projets de formation,Parler des emplois qu’on a déjà occupés,Faire la preuve de son désir de travailler,B
+21,B2,21,Leur conception de la cuisine est passée de mode,Leur créativité leur assure une célébrité mondiale,Leur nom s’est transformé en label de prestige,Leurs établissements sont cotes en bourse,Leur nom s’est transformé en label de prestige,C
+22,B2,21,Des adaptations télévisées de Maupassant,Des programmes d’études littéraires,Une exposition consacrée à Maupassant,Un ouvrage critique récemment paru,Des adaptations télévisées de Maupassant,A
+23,B2,21,Bâtir une église identique dans le quartier,Débuter le réaménagement du boulevard,Entreprendre une rénovation du lieu,Réhabiliter les logements sociaux existants,Entreprendre une rénovation du lieu,C
+24,B2,21,C’est une réponse à des besoins alimentaires accrus,Des recherches remettent en cause l’intérêt nutritif,Elle s’avère moins rentable que les cultures de céréales,Les citoyens exigent des garanties sanitaires,C’est une réponse à des besoins alimentaires accrus,A
+25,B2,21,Les producteurs évitent de prendre des risques,Les réalisateurs sont à la recherche d’idées neuves,Les scénaristes font preuve d’une imagination limitée,Les spectateurs privilégient les créations classiques,Les producteurs évitent de prendre des risques,A
+26,B2,21,Pour aider à faire le deuil du passé,Pour alléger le stockage des données,Pour faire obstacle aux multinationales,Pour rester maitre de sa vie privée,Pour rester maitre de sa vie privée,D
+27,B2,21,Un obstacle pour les bateaux de pêche.,Un réchauffement dramatique des eaux.,Un risque d’intoxication des populations du Pacifique.,Une diminution de la diversité de la faune océanique.,Une diminution de la diversité de la faune océanique.,D
+28,B2,21,Élaborer le budget de leur voyage à Barcelone,Gagner de l’argent pour payer leur séjour,Montrer aux autres classes leurs talents culinaires,Soutenir le futur projet des élèves de terminale,Gagner de l’argent pour payer leur séjour,B
+29,B2,21,Ils donnent l'impression de vénérer les produits,Ils ont l'air éblouis par le gigantisme des magasins,Ils paraissent manipulés par une force supérieure,Ils semblent perdus dans le labyrinthe des rayons,Ils paraissent manipulés par une force supérieure,C
+30,C1,26,La gestion du stress est difficile,La santé est mise en péril,Le corps est moins réactif,Le système génétique est affecté,Le système génétique est affecté,D
+31,C1,26,L’absence totale des signes visuels du langage,L’opposition des familles à leurs interventions,La nécessité de modérer le ton des échanges,Les nombreuses remarques des participants,L’absence totale des signes visuels du langage,A
+32,C1,26,Si on les prend en compte avec lucidité,Si on les remodèle à travers l’Imagination,Si on modifie la façon dont on les perçoit,Si on recherche leur signification profonde,Si on modifie la façon dont on les perçoit,C
+33,C1,26,La description du personnage,La longueur du texte,La qualité de l’écriture,Le déroulement des événements,Le déroulement des événements,D
+34,C1,26,Ils correspondent à des programmes scolaires obsolètes,Ils méconnaissent l’existence des familles recomposées,Ils présentent un partage sexiste des tâches dans le couple,Ils se moquent du quotidien des personnes sans emploi,Ils présentent un partage sexiste des tâches dans le couple,C
+35,C1,26,Les gestes révèleraient systématiquement la langue maternelle des locuteurs,"Il existerait un ordre universel de la pensée, indépendant de l’ordre linguistique",Il y aurait autant de façons de penser que de structures de langue différentes,Les structures des langues seraient dépendantes de notre expérience du monde,"Il existerait un ordre universel de la pensée, indépendant de l’ordre linguistique",B
+36,C2,33,La quasi-absence d’héroïnes,L’appel constant à la violence,L’atténuation des clichés,L’uniformité des scénarios,La quasi-absence d’héroïnes,A
+37,C2,33,Parce qu’elle finance les programmes de développement des TIC,Parce qu’elle organise des débats entre États membres sur les TIC,Parce qu’elle sensibilise les établissements d’enseignement aux TIC,Parce qu’elle habilite des formateurs à l’utilisation des TIC,Parce qu’elle finance les programmes de développement des TIC,A
+38,C2,33,De concrétiser des objectifs personnels,De fonctionner dans un cadre innovant,De limiter la répartition des gains,De renforcer les liens entre les générations,De concrétiser des objectifs personnels,A
+39,C2,33,Il contribue à améliorer les méthodes d’apprentissage,Il est indispensable pour accéder au monde professionnel,Il permet de certifier les compétences réelles d’un candidat,Il perturbe le processus d’acquisition des connaissances,Il perturbe le processus d’acquisition des connaissances,D
