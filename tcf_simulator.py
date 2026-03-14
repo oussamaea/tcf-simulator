@@ -7,8 +7,8 @@ import streamlit as st
 st.set_page_config(page_title="TCF Simulator", page_icon="📘", layout="wide")
 
 BASE_DIR = Path(__file__).resolve().parent
-WRITTEN_CSV = BASE_DIR / "tcf_full_output" / "tcf_all_series.csv"
-ORAL_CSV = BASE_DIR / "tcf_oral_output" / "tcf_all_series_oral.csv"
+WRITTEN_CSV = Path("tcf_full_output/tcf_all_series.csv")
+ORAL_CSV = Path("tcf_oral_output/tcf_all_series_oral.csv")
 
 
 @st.cache_data
